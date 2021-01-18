@@ -15,7 +15,7 @@ Open Arduino IDE. Open preferences window. In menubar, go to **File > Preference
 In Arduino IDE open Boards Manager Window. **In menubar, go to Tools > Board > Boards Manager**. In the boards manager window, in searchbar, **type 'esp8266'**, then install **esp8266 by ESP8266 Community**, wait for the installation to finish.
 
 ## Step 5
-In Arduino IDE select you NodeMCU Board, in menubar go to **Tools > Board > ESP8266 Boards > NodeMCU 1.0 (ESP-12E Module)**. Then select the port its can be COM2, COM3, COM5 anything.
+In Arduino IDE select you NodeMCU Board, in menubar go to **Tools > Board > ESP8266 Boards > NodeMCU 1.0 (ESP-12E Module)**. Then select the appropriate port for your board, in menubar go to **Tools > Port (Select appropriate Port, it can be anything like: COM2, COM3, COM5, etc.,)**
 
 ## Step 6
 Now your board is ready. Write your program and upload the sketch.
