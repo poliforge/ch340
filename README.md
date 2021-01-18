@@ -7,7 +7,7 @@ Download this repo and extract to your desired location on your PC.
 Open CH340 Folder and run Setup.exe then Admin will ask for previlages with **'Yes' and 'No'**. Click 'Yes'. Then click 'Install'.
 
 ## Step 3
-Open Arduino IDE open preferences window. In menubar, go to **File > Preferences**. In Preferences window, go to **Additional Boards Manager URLs**, paste the following URL 
+Open Arduino IDE. Open preferences window. In menubar, go to **File > Preferences**. In Preferences window, go to **Additional Boards Manager URLs**, paste the following URL 
 > http://arduino.esp8266.com/stable/package_esp8266com_index.json
 **click 'OK'**
 
